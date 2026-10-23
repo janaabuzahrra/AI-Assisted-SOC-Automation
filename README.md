@@ -1,6 +1,6 @@
 # AI-Assisted SOC Automation & Incident Response
 
-
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1cb019c5-07e5-44e4-bfce-a926afba586e" />
 
 ## Overview
 An AI-powered cybersecurity capstone project that uses local Large Language Models (LLMs) to assist SOC analysts in security log analysis, alert triage, threat investigation, incident response, and automated reporting.
